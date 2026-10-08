@@ -1,0 +1,17 @@
+C:\Users\Student\Desktop\BKIApp\BKIApp\bin\Debug\net8.0-windows\BKIApp.exe
+C:\Users\Student\Desktop\BKIApp\BKIApp\bin\Debug\net8.0-windows\BKIApp.deps.json
+C:\Users\Student\Desktop\BKIApp\BKIApp\bin\Debug\net8.0-windows\BKIApp.runtimeconfig.json
+C:\Users\Student\Desktop\BKIApp\BKIApp\bin\Debug\net8.0-windows\BKIApp.dll
+C:\Users\Student\Desktop\BKIApp\BKIApp\bin\Debug\net8.0-windows\BKIApp.pdb
+C:\Users\Student\Desktop\BKIApp\BKIApp\obj\Debug\net8.0-windows\BKIApp.Form1.resources
+C:\Users\Student\Desktop\BKIApp\BKIApp\obj\Debug\net8.0-windows\BKIApp.Properties.Resources.resources
+C:\Users\Student\Desktop\BKIApp\BKIApp\obj\Debug\net8.0-windows\BKIApp.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\BKIApp\BKIApp\obj\Debug\net8.0-windows\BKIApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\BKIApp\BKIApp\obj\Debug\net8.0-windows\BKIApp.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\BKIApp\BKIApp\obj\Debug\net8.0-windows\BKIApp.AssemblyInfo.cs
+C:\Users\Student\Desktop\BKIApp\BKIApp\obj\Debug\net8.0-windows\BKIApp.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\BKIApp\BKIApp\obj\Debug\net8.0-windows\BKIApp.dll
+C:\Users\Student\Desktop\BKIApp\BKIApp\obj\Debug\net8.0-windows\refint\BKIApp.dll
+C:\Users\Student\Desktop\BKIApp\BKIApp\obj\Debug\net8.0-windows\BKIApp.pdb
+C:\Users\Student\Desktop\BKIApp\BKIApp\obj\Debug\net8.0-windows\BKIApp.genruntimeconfig.cache
+C:\Users\Student\Desktop\BKIApp\BKIApp\obj\Debug\net8.0-windows\ref\BKIApp.dll
